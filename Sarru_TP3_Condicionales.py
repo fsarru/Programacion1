@@ -81,7 +81,7 @@ else: print("Por favor, ingrese una contraseña de entre 8 y 14 caracteres")
 from statistics import mode, median, mean
 import random
 
-numeros_aleatorios = [random.randint(1,100)] for i in range(50)
+numeros_aleatorios = [random.randint(1,100) for i in range(50)]
 moda = mode(numeros_aleatorios)
 mediana = median(numeros_aleatorios)
 media = mean(numeros_aleatorios)
