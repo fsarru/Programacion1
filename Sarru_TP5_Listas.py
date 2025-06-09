@@ -1,3 +1,4 @@
+
 # 1) Crear una lista con los números del 1 al 100 que sean múltiplos de 4. Utilizar la función
 # range.
 
@@ -95,4 +96,3 @@ print(compras)
 # Imprimir la lista resultante por pantalla.
 
 lista_anidada = [15, True, [25.5, 57.9, 30.6], False]
-print(lista_anidada)
